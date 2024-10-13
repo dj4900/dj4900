@@ -2,5 +2,4 @@
 
 <br><br><br>
 <br><br><br>
-
-![Profilbild](Scrat.png)
+<img src="Scrat.png" width="30%">

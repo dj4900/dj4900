@@ -1,1 +1,1 @@
-# Scrat
+![Profilbild](Scrat.png)

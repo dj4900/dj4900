@@ -2,4 +2,4 @@
 
 <br><br><br>
 <br><br><br>
-<img src="Scrat.png" width="30%">
+<img src="Scrat.png" width="70%">

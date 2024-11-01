@@ -15,5 +15,4 @@ I'm exploring:
 - **Tools**: Git, Visual Studio Code
 ## 🚀 Current Projects
 - [Portfolio](link) - Portfolio about me
-- 
 <img src="Scrat.png" width="70%">

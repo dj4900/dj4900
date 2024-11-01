@@ -14,5 +14,5 @@ I'm exploring:
 - **Languages**: Python, JavaScript
 - **Tools**: Git, Visual Studio Code
 ## 🚀 Current Projects
-- [Portfolio](link) - Portfolio about me
+- [Portfolio](https://github.com/dj4900/myportfolio.git) - Portfolio about me
 <img src="Scrat.png" width="70%">
